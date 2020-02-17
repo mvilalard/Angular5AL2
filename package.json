@@ -1,0 +1,30 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "main": "pokemon.js",
+  "scripts": {
+    "start": "tsc pokemon.ts && node pokemon.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^25.1.2",
+    "@types/node": "^13.7.1",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.0",
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "ts-node": "^8.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbaptista3/AngularProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielbaptista3/AngularProject/issues"
+  },
+  "homepage": "https://github.com/danielbaptista3/AngularProject#readme",
+  "description": ""
+}
